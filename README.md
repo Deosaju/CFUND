@@ -16,7 +16,7 @@ To get started, just clone the repository and run `npm install && npm run dev`:
 
     git clone https://github.com/Deosaju/CFUND
     git submodule update
-    Cd into reach folder - { Install using (npm i) }
+    Cd into each folder - { Install using (npm i) }
 
 
 
