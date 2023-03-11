@@ -1,0 +1,6 @@
+[submodule "CFUND--FrontEnd"]
+	path = CFUND--FrontEnd
+	url = https://github.com/Deosaju/CFUND--FrontEnd
+[submodule "CFUND---Contract"]
+	path = CFUND---Contract
+	url = https://github.com/Deosaju/CFUND---Contract.git
